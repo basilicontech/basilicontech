@@ -39,13 +39,13 @@ Abordamos cada proyecto de forma integral: desde el análisis de las necesidades
 ### 📊 Data Analyst
 
 
-**[CriptoRadar — Análisis de criptomonedas](https://geopesca.basilicontech.com/)**
+**[CriptoRadar — Análisis de criptomonedas](https://github.com/basilicontech/criptoradar)**
 Aplicación para monitorizar la evolución del mercado de criptomonedas y stablecoins usando las APIs de Bitget y DefiLlama. Permite explorar precios históricos, volumen de negociación, capitalización de mercado, estabilidad del peg de stablecoins y generar visualizaciones interactivas.
 `Python` · `Streamlit` · `Pandas` · `Plotly` · `Seaborn` · `Requests` · `APIs`
 
 ### 💻 Web Development
 
-**[GeoPesca](https://github.com/basilicontech/geopesca)**
+**[GeoPesca](https://geopesca.basilicontech.com/)**
 Sistema de Información Geográfica para la comunidad pescadora deportiva. Permite registrar y visualizar jornadas de pesca individuales y concursos organizados por clubes sobre un mapa interactivo de la Península Ibérica, con filtros, gestión para administradores y registro de nuevas actividades.
 `JavaScript` · `Leaflet` · `HTML` · `CSS` · `PostgreSQL`
 
